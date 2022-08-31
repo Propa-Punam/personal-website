@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+.text_part{
+    width: 40%;
+    margin: 3%;
+    margin-left: 2%;
+    padding: 2%;
+    padding-left: 3%;
+    float: left;
+
+
+}
+.img_part{
+    width: 40%;
+    margin: 3%;
+    margin-left: 2%;
+    padding: 2%;
+  
+    float: left;
+
+
+}
+img{
+    width: 80%;
+}
+.pink_color{
+    color: magenta;
+    font-weight: bolder;
+}
+p{
+    color: dimgrey;
+    
+}
+.introduction_section{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position:  left;
+
+
+}
+section{
+    height: 500px;
+    margin-bottom: 50px;
+}
+.link_button{
+   max-width: 500px;
+     max-height: 200px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-top: 10px;
+    background-image: linear-gradient(45deg,tomato,magenta);
+
+
+
+}
+
+.biography_section{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position:  left;
+
+
+}
+.my_work{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:  left;
+}
+.imges_part{
+    float: left;
+    width: 100%;
+    margin: 3%;
+}
+.imges_part img{
+    height: 20%;
+    width: 30%;
+    margin: 1%;
+
+}
+.center_heading{
+    text-align: center;
+}
+.client_section{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.center_text_body{
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
